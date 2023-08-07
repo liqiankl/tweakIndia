@@ -3058,7 +3058,7 @@ li.c-card__meta-item--gallery svg {
 
 .c-card-section__footer .c-card-section__btn:hover {
   color: #fff;
-  background: #ecac47 ;
+  background: #ecac47;
 }
 
 .c-card-section__logo {
@@ -5023,7 +5023,7 @@ li.a-header__meta-item + li.a-header__meta-item:before {
 }
 
 .c-newsletter-wrapper {
-  background: #ecac47 ;
+  background: #ecac47;
   margin: 0 auto;
   max-width: 1440px;
   padding: 30px 20px;
@@ -8991,7 +8991,20 @@ textarea:focus {
 }
 
 .bg-rig {
-  background-color: #ecac47 ;
+  background-color: #ecac47;
+}
+
+.bg-rig-earthyellow {
+  background-color: #dcb464;
+}
+.bg-rig-ecru {
+  background-color: #e4c17a;
+}
+.bg-rig-sunglow {
+  background-color: #ffcd69;
+}
+.bg-rig-xanthous {
+  background-color: #fab733;
 }
 
 .carousel .carousel-control.left {
@@ -9132,9 +9145,9 @@ body .bd-tods {
 
 .shad-imag img {
   width: 100%;
-  -webkit-box-shadow: 12px 13px 0 4px #ecac47 ;
-  -moz-box-shadow: 12px 13px 0 4px #ecac47 ;
-  box-shadow: 12px 13px 0 4px #ecac47 ;
+  -webkit-box-shadow: 12px 13px 0 4px #ecac47;
+  -moz-box-shadow: 12px 13px 0 4px #ecac47;
+  box-shadow: 12px 13px 0 4px #ecac47;
 }
 
 .shad-imag .c-superfeature__meta-item.c-superfeature__meta-item--dates span {
@@ -9328,7 +9341,7 @@ body .bd-tods {
   .c-superfeature .akshay-tag-line {
     text-align: center;
     width: 100%;
-    background: #ecac47 ;
+    background: #ecac47;
     padding: 10px;
     bottom: 0;
     position: relative;
@@ -9961,7 +9974,7 @@ body.page-template-default h5 {
 
 .c-figure__toolbar-listitem--zoom:focus,
 .c-figure__toolbar-listitem--zoom:hover {
-  background-color: #ecac47 ;
+  background-color: #ecac47;
 }
 
 .mfb_category ul li a:hover {
@@ -10559,7 +10572,7 @@ h6 {
 .mfb_story_prive.story-reconded h3 {
   padding: 0;
   font-size: 14px;
-  color: #ecac47 ;
+  color: #ecac47;
   text-transform: uppercase;
   font-family: Inter;
   font-weight: 400;
@@ -10668,7 +10681,7 @@ h6 {
 }
 
 .pum-container {
-  border: 20px solid #ecac47  !important;
+  border: 20px solid #ecac47 !important;
   -o-border-image: url(https://i.ibb.co/fHcDGp9/100-X134-harvestgold.png) 20 !important;
   border-image: url(https://i.ibb.co/fHcDGp9/100-X134-harvestgold.png) 20 !important;
   -webkit-border-image: url(https://i.ibb.co/fHcDGp9/100-X134-harvestgold.png)
@@ -10806,7 +10819,7 @@ form.wpcf7-form.invalid p {
 .c-card-section__footer.footer .c-card-section__btn,
 .c-splash__cards .c-splash__cards-wrapper:hover .play-btn-act .play-button,
 .custom-header .overlay button:hover {
-  background: #ecac47 ;
+  background: #ecac47;
 }
 
 .c-splash__cards-list .c-splash__cards-listitem.advertisement {
@@ -10950,7 +10963,7 @@ form.wpcf7-form.invalid p {
   margin: 0 0 15px;
   text-align: center;
   text-transform: uppercase;
-  color: #ecac47 ;
+  color: #ecac47;
   letter-spacing: 1px;
 }
 
@@ -11095,7 +11108,7 @@ body .content-area li .c-card__images {
 
 body .content-area li .c-card__images.c-border-box-patten-5,
 body .content-area li.pink-bg .c-card__images {
-  background: url(https://i.ibb.co/fHcDGp9/100-X134-harvestgold.png);
+  background: url(https://i.ibb.co/8PBsVSt/earthyellow.png);
 }
 
 .book-related-stories .c-card__image img,
@@ -11218,12 +11231,12 @@ body.page-template-default p {
 }
 
 .carousel-inner .item li:hover .cou-booly .fa-play {
-  background: #ecac47 ;
+  background: #ecac47;
   transition: 0.3s ease-in-out;
 }
 
 .carousel-inner .item li:hover .cou-booly a span {
-  color: #ecac47 ;
+  color: #ecac47;
   transition: 0.3s ease-in-out;
 }
 
@@ -11429,7 +11442,7 @@ li.pink-bg .bg-rig .c-card__meta-item.c-card__meta-item--date {
     margin-bottom: 0;
     text-align: center;
     text-transform: uppercase;
-    color: #ecac47 ;
+    color: #ecac47;
     letter-spacing: 1px;
   }
 
